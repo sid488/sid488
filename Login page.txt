@@ -1,0 +1,10 @@
+public class loginPage{
+WebDriver driver;
+public static void main (String[] args){
+driver = new Chromedriver();
+System.setProperty("webdriver.chrome driver", "c:\\user\\chromedriver.exe");
+driver get("URL");
+driver.windows.maximise();
+driver.close
+}
+l
